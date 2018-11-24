@@ -7,3 +7,4 @@ const fastestCar = compose(
   sortBy(prop('horsepower')),
 );
 
+fa
